@@ -12,7 +12,7 @@ const urlClusters = [
   {
     name: "Cluster 1",
     urls: [
-      "https://discord.krushnavyas.repl.co/",
+      "https://803759ff-cf26-4add-bda4-483b1f9e0d90-00-2hfd095qyhhzg.sisko.replit.dev//",
     ],
   },
   // Add more URL clusters with names here
